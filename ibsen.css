@@ -15,7 +15,7 @@
 
 }
 
-.hover:direction
+.direction:hover
 {
     background-color: beige;
     color: aquamarine;
