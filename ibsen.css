@@ -1,0 +1,33 @@
+.speech{
+
+    font-family: 'times new roman';
+
+    font-size: small;
+
+    color: black;
+
+}
+.direction{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: black;
+    background-color: antiquewhite;
+
+}
+
+.hover:direction
+{
+    background-color: beige;
+    color: aquamarine;
+}
+.Mr.soleness
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: blue;
+}
+.helda{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    color: aqua;
+}
