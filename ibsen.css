@@ -31,3 +31,26 @@
     font-size: small;
     color: aqua;
 }
+.table {
+
+    color: antiquewhite;
+
+   padding: 30px 40px;
+
+    margin-left: 50%;
+
+   margin-right: 50%;
+
+    margin-bottom: 50%;
+
+    background-color: rgb(230, 179, 12);
+
+    border-style: dashed;
+
+  border-width: 3mm;
+
+    border-radius: 3mm;
+
+    text-align: center;
+
+}
